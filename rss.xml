@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>dinos&#x27; blog</title>
+      <link>https://blog.din0s.me</link>
+      <description>Random thoughts on information retrieval, language models, artificial intelligence, and other stuff.</description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://blog.din0s.me/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Sat, 25 Jan 2025 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Hello, World!</title>
+          <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
+          <author>dinos</author>
+          <link>https://blog.din0s.me/hello-world/</link>
+          <guid>https://blog.din0s.me/hello-world/</guid>
+          <description xml:base="https://blog.din0s.me/hello-world/">&lt;p&gt;One of my goals for this year was to start expressing myself more. I was inspired by Tiago Forte’s book “&lt;a href=&quot;https:&#x2F;&#x2F;www.buildingasecondbrain.com&#x2F;&quot;&gt;Building a Second Brain&lt;&#x2F;a&gt;” and his concept of “thinking in public”.&lt;&#x2F;p&gt;
+&lt;p&gt;Ideally, I would like to write at least one post per month, with the frequency ramping up as I get more comfortable with the process (maybe eventually even weekly).&lt;&#x2F;p&gt;
+&lt;p&gt;The topics I am usually interested in are information retrieval, language models, and artificial intelligence in general (I mean, how can you not be? Maybe that’s a topic for another post by itself). So you can expect to see a lot of that, but you might also encounter some other topics I find interesting at the time.&lt;&#x2F;p&gt;
+&lt;p&gt;So that’s the plan, let’s see how it goes!&lt;&#x2F;p&gt;
+&lt;p&gt;- dinos&lt;&#x2F;p&gt;
+</description>
+      </item>
+    </channel>
+</rss>
